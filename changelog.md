@@ -1,8 +1,13 @@
 # AutoIt-VSCode Changelog
 
+## 0.1.2
+* Hovers been created for all UDFs!
+
 ## 0.1.1
+* You can now run a Syntax check and the Tidy tool
 * You can now launch AutoIt Help by simply placing the cursor on functions and macros (complete selection no longer required)
 * Even more hovers for UDFs
+* Bugfix for commands that run through AutoIt3Wrapper (e.g. Build should make executables correctly now)
 
 ## 0.1.0
 * Running, compiling and building now generate output live
